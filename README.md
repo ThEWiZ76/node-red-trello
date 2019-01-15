@@ -1,11 +1,11 @@
-node-red-contrib-trello
-=======================
+node-red-contrib-trello-updated
+===============================
 
-A set of input and output nodes for connecting node-red to trello.
+A set of input and output nodes for connecting node-red to trello. This project has been forked from https://github.com/oliverlorenz/node-red-trello in order to provide bug fixes and other features.
 
 ## Install via NPM
 ```
-npm install node-red-contrib-trello
+npm install node-red-contrib-trello-updated
 ```
 
 ## Current Development State
