@@ -1,7 +1,7 @@
 {
-  "name": "node-red-contrib-trello",
-  "version": "0.8.0",
-  "description": "A Trello node for node-red",
+  "name": "node-red-contrib-trello-updated",
+  "version": "0.1.0",
+  "description": "A Trello node for node-red, forked from https://github.com/oliverlorenz/node-red-trello.git with bug fixes",
   "dependencies": {
     "JSONStream": "^1.0.7",
     "event-stream": "^3.3.2",
@@ -30,11 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oliverlorenz/node-red-trello.git"
+    "url": "https://github.com/afeltham/node-red-trello.git"
   },
   "author": {
-    "name": "Oliver Lorenz",
-    "email": "mail@oliverlorenz.com",
-    "url": "https://oliverlorenz.com"
+    "name": "Andy Feltham",
+    "email": "andy.feltham@filament.uk.com"
   }
 }
