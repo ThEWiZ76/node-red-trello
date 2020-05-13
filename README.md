@@ -1,11 +1,11 @@
 node-red-contrib-trello-updated
 ===============================
 
-A set of input and output nodes for connecting node-red to trello. This project has been forked from https://github.com/oliverlorenz/node-red-trello in order to provide bug fixes and other features.
+A set of input and output nodes for connecting node-red to trello. This project has been forked from https://github.com/afeltham/node-red-trello in order to provide bug fixes, expand features and make fields more flexible (for example insert a card ID through input values).
 
 ## Install via NPM
 ```
-npm install node-red-contrib-trello-updated
+NOT YET AVAILABLE
 ```
 
 ## Current Development State
@@ -18,3 +18,5 @@ Following functions are available:
 * add checklist item
 * get list informations
 * get cards of list
+* get lists from a board
+* get boards for the api user
